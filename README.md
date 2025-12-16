@@ -1,5 +1,5 @@
 
-# Hi, I'm Kanrat Peetiphop(Mon)! 👋
+# Hi, I'm Kanrat Peetiphop (Mon)! 👋
 
 
 ## 🚀 About Me
