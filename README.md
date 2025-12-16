@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**monkub003/monkub003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Kanrat Peetiphop! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I’m a Software Engineering student at **Thammasat University** with a strong interest in full-stack development, system design, and building applications that solve real-world problems.
+
+
+## 🛠 Skills
+[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,react,vue,next,nodejs,express,django,bootstrap,tailwind,mongodb,firebase,mysql,git,postman,docker,selenium,linux,ubuntu,&perline=10)](https://skillicons.dev)
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanrat-peetiphop-342687398/)
+
